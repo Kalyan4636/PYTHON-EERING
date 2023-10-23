@@ -1,5 +1,5 @@
 # PYTHON--PROJECTS
-PYTHON PROJECT WITH SOURCE CODE
+PYTHON PROJECT WITH SOURCE CODE 📈
 
 **There are many different Python project ideas that you can work on, depending on your skill level and interests. Here are a few ideas to get you started:-** 
 
