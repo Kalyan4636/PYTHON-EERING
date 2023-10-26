@@ -1,5 +1,6 @@
-# PYTHON--PROJECTS
-PYTHON PROJECT WITH SOURCE CODE 📈
+# PYTHON--PROJECTS 🐍
+
+**PYTHON PROJECT WITH SOURCE-CODE 📈**
 
 **There are many different Python project ideas that you can work on, depending on your skill level and interests. Here are a few ideas to get you started:-** 
 
@@ -45,3 +46,4 @@ e]. Have fun! Building Python projects is a great way to learn and improve your 
 
 **Ultimately, the best Python project name is one that is descriptive, memorable, and fun for you to say. Don't be afraid to get creative and use emojis to make your project stand out!** 📈
 
+# I hope this helps! 🌊 🎯
