@@ -36,7 +36,7 @@
 
 Once you've chosen a project, you can start to break it down into smaller tasks. This will make the project seem less daunting and more manageable. You can also search online for tutorials and resources on how to build specific types of Python projects.
 
-**Here are a few additional tips for working on Python projects:** 🐍🐍
+# Here are a few additional tips for working on Python projects:** 🐍🐍
 
 a]. Start small. Don't try to build a complex project right away. Start with something simple and gradually work your way up to more challenging projects.🕸️
 b]. Use version control. This will allow you to track your changes and revert to a previous version if something goes wrong.
